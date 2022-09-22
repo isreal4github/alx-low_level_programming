@@ -2,7 +2,7 @@
 
 /**
 * print_number - prints an integer
-*@n The interger to be printed
+*@n: The interger to be printed
 */
 void print_number(int n)
 {
